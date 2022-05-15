@@ -129,7 +129,7 @@ void add_window(){
 	gotoxy(20,15);
 	printf("\xDB\xDB\xDB\xDB\xB2 5. Mechanical");
 	gotoxy(20,17);
-	printf("\xDB\xDB\xDB\xDB\xB2 6. ARE");
+	printf("\xDB\xDB\xDB\xDB\xB2 6. Artitecture");
 	gotoxy(20,19);
 	printf("\xDB\xDB\xDB\xDB\xB2 7. Back to main menu");
 	gotoxy(20,21);
